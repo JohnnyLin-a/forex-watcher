@@ -1,0 +1,22 @@
+name: run-app
+
+on:
+  schedule:
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-app:
+    runs-on: ubuntu-latest
+    env: 
+      FOREX_WATCHER_CONFIG: ${{ secrets.FOREX_WATCHER_CONFIG }}
+    steps:
+      - 
+        name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          ref: master
+      -
+        name: Run app
+        run: |
+          docker run --rm -e FOREX_WATCHER_CONFIG ghcr.io/johnnylin-a/forex-watcher:latest
