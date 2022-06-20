@@ -1,2 +1,10 @@
 #!/bin/bash
-docker buildx build -t forex-watcher:latest -f Dockerfile .
+action='load'
+
+for arg in $@; do
+    if [ $arg = '--push' ]; then
+        action='push'
+    fi
+done
+
+docker buildx build -t ghcr.io/johnnylin-a/forex-watcher:latest --$action -f Dockerfile .

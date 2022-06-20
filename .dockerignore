@@ -1,7 +1,7 @@
 .vscode
 node_modules
 .env
-ecom_configs.json
+forex-watcher-config.json
 postgres.env
 *.js
 dist
