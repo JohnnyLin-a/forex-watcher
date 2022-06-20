@@ -135,3 +135,4 @@ ecom_configs.json
 *.js
 pgdata
 *.html
+forex-watcher-config.json
