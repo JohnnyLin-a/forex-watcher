@@ -7,5 +7,6 @@
             "to": "CAD"
         }
     ],
-    "discordWebhook": ""
+    "discordWebhook": "",
+    "discordMention": ""
 }
