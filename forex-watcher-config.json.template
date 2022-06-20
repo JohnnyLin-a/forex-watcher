@@ -1,0 +1,11 @@
+{
+    "currencies": [
+        {
+            "notifyOver": null,
+            "notifyBelow": 1.29,
+            "from": "USD",
+            "to": "CAD"
+        }
+    ],
+    "discord_webhook": ""
+}
