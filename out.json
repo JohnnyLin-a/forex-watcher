@@ -1,1 +1,1137 @@
-{"source":"CAD","target":"USD","value":1.30215,"time":1655689868207,"NOTINOUTPUT_URL":"https://wise.com/rates/live?source=USD&target=CAD"}
+{
+    "actual_output": {
+        "sourceAmount": 100.00,
+        "guaranteedTargetAmountAllowed": false,
+        "targetAmountAllowed": true,
+        "paymentOptions": [
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0191,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 71.61,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.67,
+                    "payIn": 0.24,
+                    "discount": 0,
+                    "total": 1.91,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 1.91,
+                            "currency": "CAD",
+                            "label": "1.91 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 0.24,
+                                "currency": "CAD",
+                                "label": "0.24 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.67,
+                                "currency": "CAD",
+                                "label": "1.67 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "DIRECT_DEBIT"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0377,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 70.26,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.66,
+                    "payIn": 2.11,
+                    "discount": 0,
+                    "total": 3.77,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 3.77,
+                            "currency": "CAD",
+                            "label": "3.77 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 2.11,
+                                "currency": "CAD",
+                                "label": "2.11 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.66,
+                                "currency": "CAD",
+                                "label": "1.66 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "DEBIT"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0442,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 69.78,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.66,
+                    "payIn": 2.76,
+                    "discount": 0,
+                    "total": 4.42,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 4.42,
+                            "currency": "CAD",
+                            "label": "4.42 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 2.76,
+                                "currency": "CAD",
+                                "label": "2.76 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.66,
+                                "currency": "CAD",
+                                "label": "1.66 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "CREDIT"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0292,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 70.88,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.66,
+                    "payIn": 1.26,
+                    "discount": 0,
+                    "total": 2.92,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 2.92,
+                            "currency": "CAD",
+                            "label": "2.92 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 1.26,
+                                "currency": "CAD",
+                                "label": "1.26 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.66,
+                                "currency": "CAD",
+                                "label": "1.66 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "INTERAC"
+            },
+            {
+                "formattedEstimatedDelivery": "by Tuesday, December 20th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0396,
+                "estimatedDelivery": "2022-12-20T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 70.12,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.66,
+                    "payIn": 2.3,
+                    "discount": 0,
+                    "total": 3.96,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 3.96,
+                            "currency": "CAD",
+                            "label": "3.96 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 2.3,
+                                "currency": "CAD",
+                                "label": "2.30 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.66,
+                                "currency": "CAD",
+                                "label": "1.66 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "BANK_TRANSFER"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0377,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 70.26,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.66,
+                    "payIn": 2.11,
+                    "discount": 0,
+                    "total": 3.77,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 3.77,
+                            "currency": "CAD",
+                            "label": "3.77 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 2.11,
+                                "currency": "CAD",
+                                "label": "2.11 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.66,
+                                "currency": "CAD",
+                                "label": "1.66 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "MC_DEBIT_OR_PREPAID"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0557,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 68.94,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.65,
+                    "payIn": 3.92,
+                    "discount": 0,
+                    "total": 5.57,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 5.57,
+                            "currency": "CAD",
+                            "label": "5.57 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 3.92,
+                                "currency": "CAD",
+                                "label": "3.92 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.65,
+                                "currency": "CAD",
+                                "label": "1.65 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "INTERNATIONAL_DEBIT"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0458,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 69.66,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.65,
+                    "payIn": 2.93,
+                    "discount": 0,
+                    "total": 4.58,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 4.58,
+                            "currency": "CAD",
+                            "label": "4.58 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 2.93,
+                                "currency": "CAD",
+                                "label": "2.93 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.65,
+                                "currency": "CAD",
+                                "label": "1.65 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "MC_BUSINESS_CREDIT"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0442,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 69.78,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.66,
+                    "payIn": 2.76,
+                    "discount": 0,
+                    "total": 4.42,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 4.42,
+                            "currency": "CAD",
+                            "label": "4.42 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 2.76,
+                                "currency": "CAD",
+                                "label": "2.76 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.66,
+                                "currency": "CAD",
+                                "label": "1.66 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "MC_CREDIT"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0377,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 70.26,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.66,
+                    "payIn": 2.11,
+                    "discount": 0,
+                    "total": 3.77,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 3.77,
+                            "currency": "CAD",
+                            "label": "3.77 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 2.11,
+                                "currency": "CAD",
+                                "label": "2.11 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.66,
+                                "currency": "CAD",
+                                "label": "1.66 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "CARD"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0377,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 70.26,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.66,
+                    "payIn": 2.11,
+                    "discount": 0,
+                    "total": 3.77,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 3.77,
+                            "currency": "CAD",
+                            "label": "3.77 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 2.11,
+                                "currency": "CAD",
+                                "label": "2.11 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.66,
+                                "currency": "CAD",
+                                "label": "1.66 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "MAESTRO"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0476,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 69.53,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.65,
+                    "payIn": 3.11,
+                    "discount": 0,
+                    "total": 4.76,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 4.76,
+                            "currency": "CAD",
+                            "label": "4.76 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 3.11,
+                                "currency": "CAD",
+                                "label": "3.11 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.65,
+                                "currency": "CAD",
+                                "label": "1.65 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "VISA_BUSINESS_DEBIT"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0377,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 70.26,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.66,
+                    "payIn": 2.11,
+                    "discount": 0,
+                    "total": 3.77,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 3.77,
+                            "currency": "CAD",
+                            "label": "3.77 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 2.11,
+                                "currency": "CAD",
+                                "label": "2.11 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.66,
+                                "currency": "CAD",
+                                "label": "1.66 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "VISA_DEBIT_OR_PREPAID"
+            },
+            {
+                "formattedEstimatedDelivery": "by Tuesday, December 20th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0396,
+                "estimatedDelivery": "2022-12-20T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 70.12,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.66,
+                    "payIn": 2.3,
+                    "discount": 0,
+                    "total": 3.96,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 3.96,
+                            "currency": "CAD",
+                            "label": "3.96 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 2.3,
+                                "currency": "CAD",
+                                "label": "2.30 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.66,
+                                "currency": "CAD",
+                                "label": "1.66 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "BILL_PAYMENT"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0557,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 68.94,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.65,
+                    "payIn": 3.92,
+                    "discount": 0,
+                    "total": 5.57,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 5.57,
+                            "currency": "CAD",
+                            "label": "5.57 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 3.92,
+                                "currency": "CAD",
+                                "label": "3.92 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.65,
+                                "currency": "CAD",
+                                "label": "1.65 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "INTERNATIONAL_CREDIT"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0476,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 69.53,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.65,
+                    "payIn": 3.11,
+                    "discount": 0,
+                    "total": 4.76,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 4.76,
+                            "currency": "CAD",
+                            "label": "4.76 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 3.11,
+                                "currency": "CAD",
+                                "label": "3.11 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.65,
+                                "currency": "CAD",
+                                "label": "1.65 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "MC_BUSINESS_DEBIT"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0442,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 69.78,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.66,
+                    "payIn": 2.76,
+                    "discount": 0,
+                    "total": 4.42,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 4.42,
+                            "currency": "CAD",
+                            "label": "4.42 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 2.76,
+                                "currency": "CAD",
+                                "label": "2.76 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.66,
+                                "currency": "CAD",
+                                "label": "1.66 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "VISA_CREDIT"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0458,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabled": false,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 69.66,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.65,
+                    "payIn": 2.93,
+                    "discount": 0,
+                    "total": 4.58,
+                    "priceSetId": 1397,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1397,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 4.58,
+                            "currency": "CAD",
+                            "label": "4.58 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 2.93,
+                                "currency": "CAD",
+                                "label": "2.93 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.65,
+                                "currency": "CAD",
+                                "label": "1.65 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "VISA_BUSINESS_CREDIT"
+            },
+            {
+                "formattedEstimatedDelivery": "by Monday, December 19th",
+                "estimatedDeliveryDelays": [],
+                "allowedProfileTypes": [
+                    "PERSONAL",
+                    "BUSINESS"
+                ],
+                "feePercentage": 0.0109,
+                "estimatedDelivery": "2022-12-19T13:30:00Z",
+                "disabledReason": {
+                    "code": "error.payInmethod.disabled",
+                    "message": "Open a multi currency account and add funds to instantly pay for your transfers.",
+                    "arguments": []
+                },
+                "disabled": true,
+                "sourceCurrency": "CAD",
+                "targetCurrency": "USD",
+                "sourceAmount": 100.00,
+                "targetAmount": 72.21,
+                "payOut": "BANK_TRANSFER",
+                "fee": {
+                    "transferwise": 1.09,
+                    "payIn": 0.0,
+                    "discount": 0,
+                    "total": 1.09,
+                    "priceSetId": 1396,
+                    "partner": 0.0
+                },
+                "price": {
+                    "priceSetId": 1396,
+                    "total": {
+                        "type": "TOTAL",
+                        "label": "Total fees",
+                        "value": {
+                            "amount": 1.09,
+                            "currency": "CAD",
+                            "label": "1.09 CAD"
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": "PAYIN",
+                            "label": "fee",
+                            "value": {
+                                "amount": 0.0,
+                                "currency": "CAD",
+                                "label": "0 CAD"
+                            }
+                        },
+                        {
+                            "type": "TRANSFERWISE",
+                            "label": "Our fee",
+                            "value": {
+                                "amount": 1.09,
+                                "currency": "CAD",
+                                "label": "1.09 CAD"
+                            }
+                        }
+                    ]
+                },
+                "payIn": "BALANCE"
+            }
+        ],
+        "notices": [],
+        "transferFlowConfig": {
+            "highAmount": {
+                "showFeePercentage": false,
+                "trackAsHighAmountSender": false,
+                "showEducationStep": false,
+                "offerPrefundingOption": false,
+                "overLimitThroughCs": false,
+                "overLimitThroughWiseAccount": false
+            }
+        },
+        "rateTimestamp": "2022-12-16T18:23:11Z",
+        "clientId": "unknown",
+        "type": "REGULAR",
+        "expirationTime": "2022-12-16T18:53:20Z",
+        "status": "PENDING",
+        "rate": 0.730087,
+        "sourceCurrency": "CAD",
+        "targetCurrency": "USD",
+        "rateExpirationTime": "2022-12-20T18:23:20Z",
+        "createdTime": "2022-12-16T18:23:20Z",
+        "rateType": "FIXED",
+        "payOut": "BANK_TRANSFER",
+        "guaranteedTargetAmount": false,
+        "providedAmountType": "SOURCE",
+        "funding": "POST"
+    },
+    "NOTINOUTPUT_URL": "https://wise.com/gateway/v3/quotes/",
+    "NOTINOUTPUT_PAYLOAD": {
+        "sourceAmount": 100,
+        "sourceCurrency": "CAD",
+        "targetCurrency": "USD",
+        "preferredPayIn": null,
+        "guaranteedTargetAmount": false,
+        "type": "REGULAR"
+    },
+    "NOTINOUTPUT_METHOD": "POST",
+    "NOTINOUTPUT_HEADERS": {
+        "accept": "application/json",
+        "content-type": "application/json"
+    }
+}
