@@ -16,6 +16,8 @@ COPY --from=build /src/dist /src/yarn.lock /src/package.json /dist/
 
 WORKDIR /dist
 
+RUN apk add curl
+
 RUN yarn --production=true
 
 CMD node index.js
